@@ -1,0 +1,23 @@
+{
+  "name": "skill-platform",
+  "version": "0.1.0",
+  "private": true,
+  "description": "企业岗位经验 Skill 生成平台 Demo —— 自然语言 → 可执行 Skill → 分析结果",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.5.23",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/react": "^19.0.4",
+    "@types/react-dom": "^19.0.2",
+    "typescript": "^5.7.3"
+  }
+}
